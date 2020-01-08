@@ -1,2 +1,14 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+.app_container {
+  width: 1200px;
+  margin: 0px auto;
+  margin-top: 10px;
+}
+
 
 /*# sourceMappingURL=/intro-to-react-and-firebase.9ad09f98.css.map */

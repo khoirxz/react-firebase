@@ -1,9 +1,10 @@
 import React from "react";
+import Posts from "./Posts";
 
 function App(props) {
   return (
-    <div>
-      <h1>Hello </h1>
+    <div className="app_container">
+      <Posts />
     </div>
   );
 }
